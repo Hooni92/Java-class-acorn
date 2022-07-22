@@ -1,0 +1,10 @@
+package test.main;
+import test.mypack.Car;
+public class MainClass02 {
+
+	public static void main(String[] args) {
+		//달리고 싶다~ 어떻게 하면 달릴 수 있을까?
+		Car run= new Car();
+		run.drive();
+	}
+}
