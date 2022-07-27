@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="test.mypack.Calculator"/>
+    <fullyQualifiedTypeName name="test.mypack.Member"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.Main"/>
+    <fullyQualifiedTypeName name="test.mypack.MyUtil"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="test.mypack.Car"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JScrollBar"/>
+    <fullyQualifiedTypeName name="javax.swing.JInternalFrame.JDesktopIcon"/>
+    <fullyQualifiedTypeName name="test.mypack.MyObject"/>
+    <fullyQualifiedTypeName name="test.mypack.Gun"/>
+    <fullyQualifiedTypeName name="test.mypack.Arrow"/>
+    <fullyQualifiedTypeName name="test.mypack.Messenger"/>
+    <fullyQualifiedTypeName name="test.mypack.Radio"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="test.mypac.Student"/>
+    <fullyQualifiedTypeName name="test.mypac.Member"/>
+    <fullyQualifiedTypeName name="test.mypac.MacBook"/>
+    <fullyQualifiedTypeName name="test.mypac.Cpu"/>
+    <fullyQualifiedTypeName name="test.mypac.Memory"/>
+    <fullyQualifiedTypeName name="test.mypac.HardDisk"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="test.mypac.Bike"/>
 </qualifiedTypeNameHistroy>
