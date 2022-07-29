@@ -13,7 +13,6 @@ public class MainClass03 {
 		f.setSize(300, 400);
 		f.setTitle("제목");
 		f.setLayout(new BorderLayout());
-		
 		JButton btn=new JButton();
 		btn.setText("눌러보셈");
 		f.add(btn, BorderLayout.NORTH);

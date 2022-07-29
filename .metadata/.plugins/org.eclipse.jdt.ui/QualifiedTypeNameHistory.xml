@@ -27,4 +27,15 @@
     <fullyQualifiedTypeName name="test.mypac.HardDisk"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="test.mypac.Bike"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
+    <fullyQualifiedTypeName name="test.mypac.MemberDto"/>
+    <fullyQualifiedTypeName name="test.mypac.testDto"/>
+    <fullyQualifiedTypeName name="test.main.MainClass02"/>
+    <fullyQualifiedTypeName name="test.pack.Phone"/>
+    <fullyQualifiedTypeName name="test.pack.HandPhone"/>
+    <fullyQualifiedTypeName name="test.pack.SmartPhone"/>
+    <fullyQualifiedTypeName name="test.auto.Car"/>
+    <fullyQualifiedTypeName name="test.auto.Benz"/>
+    <fullyQualifiedTypeName name="test.auto.CampingCar"/>
+    <fullyQualifiedTypeName name="test.auto.Engine"/>
 </qualifiedTypeNameHistroy>
