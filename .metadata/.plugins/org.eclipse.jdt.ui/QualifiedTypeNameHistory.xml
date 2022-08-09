@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="test.mypack.Calculator"/>
     <fullyQualifiedTypeName name="test.mypack.Member"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.Main"/>
     <fullyQualifiedTypeName name="test.mypack.MyUtil"/>
     <fullyQualifiedTypeName name="java.io.PrintStream"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="test.mypack.Car"/>
-    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
-    <fullyQualifiedTypeName name="javax.swing.JButton"/>
-    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
     <fullyQualifiedTypeName name="javax.swing.JScrollBar"/>
     <fullyQualifiedTypeName name="javax.swing.JInternalFrame.JDesktopIcon"/>
     <fullyQualifiedTypeName name="test.mypack.MyObject"/>
@@ -25,7 +20,6 @@
     <fullyQualifiedTypeName name="test.mypac.Cpu"/>
     <fullyQualifiedTypeName name="test.mypac.Memory"/>
     <fullyQualifiedTypeName name="test.mypac.HardDisk"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="test.mypac.Bike"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
     <fullyQualifiedTypeName name="test.mypac.MemberDto"/>
@@ -38,4 +32,32 @@
     <fullyQualifiedTypeName name="test.auto.Benz"/>
     <fullyQualifiedTypeName name="test.auto.CampingCar"/>
     <fullyQualifiedTypeName name="test.auto.Engine"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="test.mypac.MyWeapon"/>
+    <fullyQualifiedTypeName name="test.mypac.Psychokinesis"/>
+    <fullyQualifiedTypeName name="test.mypac.Zoo"/>
+    <fullyQualifiedTypeName name="test.mypac.Zoo.Monkey"/>
+    <fullyQualifiedTypeName name="test.mypac.Zoo.Tiger"/>
+    <fullyQualifiedTypeName name="Missile"/>
+    <fullyQualifiedTypeName name="test.mypac.Weapon"/>
+    <fullyQualifiedTypeName name="test.mypac.MyRemocon"/>
+    <fullyQualifiedTypeName name="test.mypac.Drill"/>
+    <fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+    <fullyQualifiedTypeName name="test.mypac.Remocon"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="test.dto.MemberDto"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="test.dao.MemberDao"/>
 </qualifiedTypeNameHistroy>
